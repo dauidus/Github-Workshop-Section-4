@@ -1,0 +1,51 @@
+Cyberethics, as a field of study, can be understood as a branch of applied ethics. 
+Applied ethics, as opposed to theoretical ethics, examines practical ethical issues. 
+It does so by analyzing those issues from the vantage point of one or more ethical 
+theories. Whereas
+1.4 CyberethicsasaBranchofAppliedEthics:ThreeDistinctPerspectives b 15
+ethical theory is concerned with establishing logically coherent and consistent 
+criteria in the form of standards and rules for evaluating moral problems, the 
+principal aim of applied ethics is to analyze specific moral problems themselves 
+through the application of ethical theory. As such, those working in fields of 
+applied ethics, or practical ethics, are not inclined to debate some of the finer 
+points of individual ethical theories. Instead, their interest in ethical theory is 
+primarily with how one or more theories can be successfully applied to the analysis 
+of specific moral problems that they happen to be investigating.
+For an example of a practical ethics issue involving cybertechnology, consider again 
+the original Napster controversy. Recall that at the heart of this dispute is the 
+question: should proprietary information, in a digital format known as MP3 files, be 
+allowed to be exchanged freely over the Internet? Those advocating the free exchange 
+of MP3 files could appeal to one or more ethical theories to support their position. 
+For example, they might appeal to utilitarianism, an ethical theory that is based on 
+the principle that our policies and laws should be such that they produce the 
+greatest good (happiness) for the greatest number of people. A utilitarian might 
+argue that MP3 files should be distributed freely over the Internet because the 
+consequences of allowing such a practice would make the majority of users happy and 
+would thus contribute to the greatest good for the greatest number of persons 
+affected.
+Others might argue that allowing proprietary material to be exchanged freely over 
+the Internet would violate the rights of those who created, and who legally own, the 
+material. Proponents of this view could appeal to a nonutilitarian principle or 
+theory that is grounded in the notion of respecting the rights of individuals. 
+According to this view, an important consideration for an ethical policy is that it 
+protects the rights of individuals—in this case, the rights of those who legally own 
+the proprietary material in question—irrespective of the happiness that might or 
+might not result for the majority of Internet users.
+Notice that in our analysis of the dispute over the exchange of MP3 files on the 
+Internet (in the Napster case), the application of two different ethical theories 
+yielded two very different answers to the question of which policy or course of 
+action ought to be adopted. Sometimes, however, the application of different ethical 
+theories to a particular problem will yield similar solutions. We will examine in 
+detail some standard ethical theories, including utilitarianism, in Chapter 2. Our 
+main concern in this textbook is with applied, or practical, ethics issues, and not 
+with ethical theory per se. Wherever appropriate, however, ethical theory will be 
+used to inform our analysis of moral issues involving cybertechnology.
+Understanding cyberethics as a field of applied ethics that examines moral issues 
+pertaining to cybertechnology is an important first step. But much more needs to be 
+said about the perspectives that interdisciplinary researchers bring to their 
+analysis of the issues that make up this relatively new field. Most scholars and 
+professionals conducting research in this field of applied ethics have proceeded 
+from one of three different perspectives— professional ethics, philosophical ethics, 
+or sociological/descriptive ethics.13 Gaining a clearer understanding of what is 
+meant by each perspective is useful at this point.
+
